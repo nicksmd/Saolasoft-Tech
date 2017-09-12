@@ -3,15 +3,17 @@
 Tech stack:
     
     - Back-end:
-        - Nodejs
+        - Nodejs        
         - Koa
-        - Dynamodb
-        - Elasticsearch        
+        - Yarn
+        - Dynamodb                
         - Redis
         - Postgres
         - TimescaleDb
         - Docker
         - RabbitMQ        
-
+        - OneSignal
+        - Elasticsearch
+        
     - Front-end:
         - React
