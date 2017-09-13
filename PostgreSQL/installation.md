@@ -1,0 +1,2 @@
+- basic tut: https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x
+- install: https://www.youtube.com/watch?v=e1MwsT5FJRQ

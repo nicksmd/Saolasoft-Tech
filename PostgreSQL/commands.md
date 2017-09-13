@@ -1,4 +1,4 @@
-- connect to postgres: **psql postgres**
+- connect to postgres: **psql postgres**, **psql -U postgres postgres**
 - list users/roles: **\du**
 - create db: **create database <database-name>;**
 - drop db: **drop database <database-name>;**
