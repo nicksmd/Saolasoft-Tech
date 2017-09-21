@@ -52,6 +52,17 @@ const Index = (props)=>(
                 </li>
             ))}
         </ul>
+        <Link href={'/list'}>
+            <a>{"List page"}</a>
+        </Link>
+        <hr/>
+        <Link href={'/boil-water'}>
+            <a>{"Boiling calculator"}</a>
+        </Link>
+        <hr/>
+        <Link href="/think-in-react">
+            <a>{"Think in React"}</a>
+        </Link>
     </Layout>
 );
 
