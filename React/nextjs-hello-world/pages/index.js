@@ -63,6 +63,14 @@ const Index = (props)=>(
         <Link href="/think-in-react">
             <a>{"Think in React"}</a>
         </Link>
+        <hr/>
+        <Link href="/test-should-update">
+            <a>{"Test should update"}</a>
+        </Link>
+        <hr/>
+        <Link href="/pure-component">
+            <a>{"Pure component"}</a>
+        </Link>
     </Layout>
 );
 
